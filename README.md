@@ -95,13 +95,14 @@ const octavio = {
       <p>Prototipos de integración de LLMs en flujos de negocio y dashboards.</p>
     </td>
     <td align="center" width="33%">
-      <h3>✨ Próximamente</h3>
-      <p><b>Tu próximo proyecto acá</b></p>
+      <h3>📄 CV Analyzer AI</h3>
+      <p><b>AI-powered resume screening tool</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       </p>
-      <p>Siempre construyendo algo nuevo 🚀</p>
+      <p>Analiza y puntúa CVs automáticamente usando IA, extrayendo habilidades y match con el puesto.</p>
     </td>
   </tr>
 </table>
