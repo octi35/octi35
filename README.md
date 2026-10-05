@@ -22,7 +22,7 @@
 const octavio = {
   role:       "Software Analyst & Full Stack Developer",
   location:   "Córdoba, Argentina 🇦🇷",
-  company:    "Fortek Solutions",
+  company:    "Code Assurance",
   education:  "Systems Analysis & Software Dev — IES (2024–2026)",
   projects:   ["JoinMe 🎉", "Opero 🏢"],
   interests:  ["AI integrations", "Automation", "Data dashboards", "SaaS"],
